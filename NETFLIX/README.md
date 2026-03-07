@@ -11,6 +11,7 @@ Tracking all interview rounds for a position at Netflix.
 | [Round 3](./Round-3_Code-Review-Troubleshooting-Interview_Tejas/README.md) | Code Review & Troubleshooting | Tejas | Mar 3, 2026 | 1h 2m | ✅ Positive — *"I agree with all of what you said"* |
 | [Round 4](./Round-4_Technical-Support-Scenarios-Interview_Peter/README.md) | Technical Support Scenarios | Peter E + Peter D | Mar 3, 2026 | 45m | ✅ Positive — *"Best of luck for the rest of the rounds"* |
 | [Round 5](./Round-5_CICD-Delivery-Interview_Cameron/README.md) | CI/CD Delivery Interview | Cameron | Mar 4, 2026 | 47m | ✅ **STRONG PASS** — *"It's a yes"* (post-call audio) |
+| [Round 6](./Round-6_Project-Presentation-Interview_Erica/README.md) | Project Presentation & Deep Q&A | Erica | Mar 5, 2026 | 56m | ✅ **OFFER STAGE** — *"HR will be the one to contact you next"* |
 
 ## Role Summary
 
@@ -21,7 +22,12 @@ Tracking all interview rounds for a position at Netflix.
 
 ## Overall Progress
 
-**5 rounds completed — ALL POSITIVE.** Strong signals across every interviewer. Rounds 3 & 4 were back-to-back on March 3; Round 5 on March 4. Awaiting offer/decision.
+**6 rounds completed — ALL POSITIVE. 🎉 OFFER STAGE.**
+- Rounds 3 & 4: back-to-back on March 3
+- Round 5: March 4
+- Round 6: March 5 — Erica closed with *"HR will be the one to contact you next"*
+
+Awaiting HR contact for offer.
 
 ## ⚠️ Important Role Note
 
