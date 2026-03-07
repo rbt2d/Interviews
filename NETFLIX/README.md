@@ -9,7 +9,8 @@ Tracking all interview rounds for a position at Netflix.
 | [Round 1](./Round-1_Security-Support-Engineer-Screen/README.md) | Hiring Manager Screen | Unknown | Jan 28, 2026 | 41m | ⚠️ Outcome Unknown (transcript cut off) |
 | [Round 2](./Round-2_ESO-Troubleshooting-Interview_Ronnie/README.md) | ESO Troubleshooting Interview | Ronnie Moore | Feb 3, 2026 | 59m | ✅ Passed — *"You did great"* |
 | [Round 3](./Round-3_Code-Review-Troubleshooting-Interview_Tejas/README.md) | Code Review & Troubleshooting | Tejas | Mar 3, 2026 | 1h 2m | ✅ Positive — *"I agree with all of what you said"* |
-| Round 4 | TBD | TBD | TBD | TBD | ⏳ Pending |
+| [Round 4](./Round-4_Technical-Support-Scenarios-Interview_Peter/README.md) | Technical Support Scenarios | Peter E + Peter D | Mar 3, 2026 | 45m | ✅ Positive — *"Best of luck for the rest of the rounds"* |
+| Round 5 | TBD | TBD | TBD | TBD | ⏳ Pending |
 
 ## Role Summary
 
@@ -20,7 +21,7 @@ Tracking all interview rounds for a position at Netflix.
 
 ## Overall Progress
 
-3 of ~4+ rounds completed — all positive signals so far. Awaiting next round.
+4 of ~5+ rounds completed — all positive signals so far. Rounds 3 and 4 were back-to-back on March 3. Awaiting next round.
 
 ## ⚠️ Important Role Note
 
