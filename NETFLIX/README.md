@@ -10,7 +10,7 @@ Tracking all interview rounds for a position at Netflix.
 | [Round 2](./Round-2_ESO-Troubleshooting-Interview_Ronnie/README.md) | ESO Troubleshooting Interview | Ronnie Moore | Feb 3, 2026 | 59m | ✅ Passed — *"You did great"* |
 | [Round 3](./Round-3_Code-Review-Troubleshooting-Interview_Tejas/README.md) | Code Review & Troubleshooting | Tejas | Mar 3, 2026 | 1h 2m | ✅ Positive — *"I agree with all of what you said"* |
 | [Round 4](./Round-4_Technical-Support-Scenarios-Interview_Peter/README.md) | Technical Support Scenarios | Peter E + Peter D | Mar 3, 2026 | 45m | ✅ Positive — *"Best of luck for the rest of the rounds"* |
-| Round 5 | TBD | TBD | TBD | TBD | ⏳ Pending |
+| [Round 5](./Round-5_CICD-Delivery-Interview_Cameron/README.md) | CI/CD Delivery Interview | Cameron | Mar 4, 2026 | 47m | ✅ **STRONG PASS** — *"It's a yes"* (post-call audio) |
 
 ## Role Summary
 
@@ -21,7 +21,7 @@ Tracking all interview rounds for a position at Netflix.
 
 ## Overall Progress
 
-4 of ~5+ rounds completed — all positive signals so far. Rounds 3 and 4 were back-to-back on March 3. Awaiting next round.
+**5 rounds completed — ALL POSITIVE.** Strong signals across every interviewer. Rounds 3 & 4 were back-to-back on March 3; Round 5 on March 4. Awaiting offer/decision.
 
 ## ⚠️ Important Role Note
 
